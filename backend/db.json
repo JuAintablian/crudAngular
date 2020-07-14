@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Sansung S20+ Ultra",
+      "price": 7520.89
+    },
+    {
+      "id": 4,
+      "name": "Lapis Preto Básico",
+      "price": 1.5
+    },
+    {
+      "name": "111",
+      "price": "11111",
+      "id": 5
+    },
+    {
+      "name": "Juliana",
+      "price": "186813",
+      "id": 6
+    },
+    {
+      "name": "JULIANA.A",
+      "price": "11111",
+      "id": 7
+    },
+    {
+      "name": "",
+      "price": null,
+      "id": 8
+    },
+    {
+      "name": "",
+      "price": null,
+      "id": 9
+    }
+  ]
+}
